@@ -1,0 +1,68 @@
+canonical_identifier: bkk:krp/KR6v0273/I/v1
+canonical_location: https://kanripo.org/bkk/KR6v0273/I/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 董黃頭七十人等造像記
+  identifiers:
+    krp: KR6v0273
+    cbeta: I01n0067
+    cbeta_old_id: I01n0067
+    authorityid: CA0008202
+    json_key: I0067
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0067.xml
+    old_id: I01n0067
+  edition:
+    short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0273_000-I.yaml, hash: 'sha256:9c2ad415b06bb633d2de9a17f2a7a3b3ac93fcb74719e302cbd9853084885823'}
+  - {seq: 1, filename: KR6v0273_001-I.yaml, hash: 'sha256:e4f52962899db8537b907e65b6947c2c988d040a9a24ed25d8e02197f7fbdd6f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0273_000-I.markers.yaml, hash: 'sha256:b808a1bf66308869a46d03f09c3732b9f36b13bd1e34af4e262c68179652fab9'}
+  - {seq: 1, role: markers, filename: assets/KR6v0273_001-I.markers.yaml, hash: 'sha256:2a9d008aaca46bc611aacb17eee2c290eb4372feac8e635f7963093e2037a403'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0273_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 925
+  label: 董黃頭七十人等造像記
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0273_I_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 之一　碑陽
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0273_I_001-mulu-2
+    span:
+    - body
+    - 412
+    - 412
+  label: 之二　碑陰
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0273_I_001-mulu-3
+    span:
+    - body
+    - 711
+    - 711
+  label: 之三　兩側
+  type: mulu
+  level: 1
+hash: sha256:37c25b1c0b64cee75b5c89d1b5b8780d9b640dfb2e1d1be90ff57e866376c2f2

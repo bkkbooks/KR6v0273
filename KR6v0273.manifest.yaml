@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0273/v1
 canonical_location: https://kanripo.org/bkk/KR6v0273/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 董黃頭七十人等造像記
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0273_000.yaml, hash: 'sha256:9c2ad415b06bb633d2de9a17f2a7a3b3ac93fcb74719e302cbd9853084885823'}
-  - {seq: 1, filename: KR6v0273_001.yaml, hash: 'sha256:e4f52962899db8537b907e65b6947c2c988d040a9a24ed25d8e02197f7fbdd6f'}
+  - {seq: 1, filename: KR6v0273_001.yaml, hash: 'sha256:7b2eb87e858ebe9fe0b19a0610ea6a4b7d1e99b72e4d1859510a8e8631b51094'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0273_000.markers.yaml, hash: 'sha256:f6aacee4f56c9de1a45897454ec8dcad9a29363bdd2a3ce25abba48ace8b688f'}
-  - {seq: 1, role: markers, filename: assets/KR6v0273_001.markers.yaml, hash: 'sha256:7d3ca2bf5de1f80f66c3fa601ea4ae9f219ffb6d0b621b961415abf317839d5b'}
+  - {seq: 1, role: markers, filename: assets/KR6v0273_001.markers.yaml, hash: 'sha256:6b9577f7a78cc3136864c8b346ae20e7923839333bb514418d0f10f8e40fa7c7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -70,4 +70,7 @@ table_of_contents:
   label: 之三　兩側
   type: mulu
   level: 1
-hash: sha256:7dff9eeec425d3fca7b2a4bd7c6ec6067cb750ac193c0d5ebaf0efb17c862f7e
+hash: sha256:2ba987c641cc58d4b2d159ad85c178fa35b471ce2f27da0b7ef4ac73602be2c2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
